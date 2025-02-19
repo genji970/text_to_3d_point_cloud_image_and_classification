@@ -1,6 +1,7 @@
 writing prompt -> loaded diffusion model outputs 2d image -> using midas depth estimation, making depth image -> making point cloud data with (image,depth image) -> using loaded pointnet, doing object detection to ply data
 
 ## structure ##
+After `pip install -r ./requirements.txt`,
 
 1) image_generation , image_save.<br>
 `python -m image_generation.master.main` -> made images will be saved in image_save folder
