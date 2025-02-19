@@ -15,9 +15,9 @@ writing prompt -> loaded diffusion model outputs 2d image -> using midas depth e
 `python -m pointnet.master.main` -> classification by loaded pointnet model will be run to data.ply in point_cloud_image_save 
 
 
-![Image](https://github.com/user-attachments/assets/b93fd8ca-1a14-417d-98f6-49b17ea9deda)
+![Image](https://github.com/user-attachments/assets/03bad0b5-e346-47fb-b88b-f7f2b1e9e406)
 
-![Image](https://github.com/user-attachments/assets/9d733472-b6a4-4216-a06b-349cd058eb42)
+![Image](https://github.com/user-attachments/assets/053e9238-60cb-4297-b64f-2ebe0413164e)
 
 ## Reference ##
 pointnet/model/best_model.pth,pointnet2_cls_msg.py,pointnet2_utils were loaded from https://github.com/yanx27/Pointnet_Pointnet2_pytorch
