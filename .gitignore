@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+*.egg-info/
+*.egg
+*.pkl
+*.h5
+*.onnx
+
+# Virtual environments
+venv/
+.env/
+.venv/
+*.env
+
+# Cache files
+.cache/
+.ipynb_checkpoints
+
+# System files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs
+*.log
+*.out
+*.err
+
+# IDEs
+.vscode/
+.idea/
